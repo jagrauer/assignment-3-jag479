@@ -1,0 +1,28 @@
+---
+title: "Assignment 3"
+author: "Jen Grauer"
+date: "2/26/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Jen and Emma's Website
+
+<br>
+
+### Git Repositories
+
+Jen's public repository
+https://github.com/jagrauer/assignment-3-jag479
+
+Emma's public repository
+https://github.com/erw95/assignment-3-erw95
+
+<br>
+
+### Image with Caption
+![Look at all those files!](https://scriptcrunch.com/wp-content/uploads/2014/03/linux-find-files.jpg)
+
