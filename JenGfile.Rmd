@@ -1,0 +1,18 @@
+---
+title: "Jen"
+author: "Jen Grauer"
+date: "2/26/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Jen's Page for Assignment 3
+
+- I am originally from Maryland
+
+- I started at Cornell this January, 2021
+
+- I like baking, reading, and playing outside
