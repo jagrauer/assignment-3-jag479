@@ -6,4 +6,10 @@ navbar:
     - text: "Jen"
       href: JenGfile.html
     - text: "Emma"
-      href: Emma-copy.html  
+      href: Emma-copy.html
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    toc: true 
+    toc_float: true 

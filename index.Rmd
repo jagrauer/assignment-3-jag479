@@ -24,5 +24,5 @@ https://github.com/erw95/assignment-3-erw95
 <br>
 
 ### Image with Caption
-![Look at all those files!](https://scriptcrunch.com/wp-content/uploads/2014/03/linux-find-files.jpg)
+![So much snow!](snow.jpg)
 
